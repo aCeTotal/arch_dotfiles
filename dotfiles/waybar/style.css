@@ -10,13 +10,13 @@
  * ----------------------------------------------------- 
 */
 
-@define-color backgroundlight #FFFFFF;
-@define-color backgrounddark #FFFFFF;
+@define-color backgroundlight #e5e5e5;
+@define-color backgrounddark #e5e5e5;
 @define-color workspacesbackground1 #FFFFFF;
 @define-color workspacesbackground2 #CCCCCC;
 @define-color bordercolor #FFFFFF;
-@define-color textcolor1 #000000;
-@define-color textcolor2 #000000;
+@define-color textcolor1 #FFFFFF;
+@define-color textcolor2 #FFFFFF;
 @define-color textcolor3 #FFFFFF;
 @define-color iconcolor #FFFFFF;
 
@@ -31,11 +31,8 @@
 }
 
 window#waybar {
-    background-color: rgba(0,0,0,0.2);
-    border-bottom: 0px solid #ffffff;
-    /* color: #FFFFFF; */
-    transition-property: background-color;
-    transition-duration: .5s;
+    background: rgba(21, 18, 27, 0);
+    color: #cdd6f4;
 }
 
 /* -----------------------------------------------------

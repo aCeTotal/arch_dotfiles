@@ -14,9 +14,10 @@
         "~/.config/waybar/modules.json"
     ],    
     "modules-left": [
-        "custom/appmenu",
-        "group/quicklinks",
-        "hyprland/window"
+        "clock",
+        #"custom/appmenu",
+        #"group/quicklinks",
+        #"hyprland/window"
     ],
     "modules-center": [
         "hyprland/workspaces"
@@ -29,8 +30,8 @@
         "memory", 
         "keyboard-state", 
         "battery", 
-        "clock", 
+        #"clock", 
         "tray",
-        "custom/exit"
+        #"custom/exit"
     ]
 }
