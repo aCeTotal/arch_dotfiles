@@ -15,12 +15,9 @@
     ],    
     "modules-left": [
         "clock",
-        #"custom/appmenu",
-        #"group/quicklinks",
-        #"hyprland/window"
+        "hyprland/workspaces",
     ],
     "modules-center": [
-        "hyprland/workspaces"
     ],
     "modules-right": [
         "mpd", 
@@ -30,8 +27,6 @@
         "memory", 
         "keyboard-state", 
         "battery", 
-        #"clock", 
         "tray",
-        #"custom/exit"
     ]
 }
