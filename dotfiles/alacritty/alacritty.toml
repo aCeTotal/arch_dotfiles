@@ -2,8 +2,8 @@
 size = 12.0
 
 [font.normal]
-family = "SourceCodePro-Light"
-style = "Regular"
+family = "JetBrainsMonoNerdFont"
+style = "Light"
 
 [window]
 opacity = 0.8
