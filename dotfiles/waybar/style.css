@@ -1,13 +1,15 @@
+:root {
+  --background-modules: rgba(0, 0, 0, 0.2);
+  --text-color: #FFFFFF;
+  --workspace-hover-selected: rgba(255, 255, 255, 0.2);
+}
+
 
 /* -----------------------------------------------------
  * General 
  * ----------------------------------------------------- */
 
-* {
-    --background-modules: rgba(0, 0, 0, 0.2);
-    --text-color: #FFFFFF;
-    --workspace-hover-selected: rgba(255, 255, 255, 0.3);
-
+{
     font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
