@@ -10,10 +10,10 @@
  * ----------------------------------------------------- 
 */
 
-@define-color backgroundlight #444444;
-@define-color backgrounddark #444444;
+@define-color backgroundlight rgba(0,0,0,0.5);
+@define-color backgrounddark rgba(0,0,0,0.5);
 @define-color workspacesbackground1 #FFFFFF;
-@define-color workspacesbackground2 #CCCCCC;
+@define-color workspacesbackground2 rgba(0,0,0,0.5);;
 @define-color bordercolor #FFFFFF;
 @define-color textcolor1 #FFFFFF;
 @define-color textcolor2 #FFFFFF;
@@ -201,10 +201,12 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
  #disk,#memory,#cpu,#language {
+    background-color: @backgrounddark;
     margin:0px;
     padding:0px;
     font-size:16px;
     color:@iconcolor;
+    border-radius: 15px;
 }
 
 #language {
