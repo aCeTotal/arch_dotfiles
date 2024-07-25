@@ -67,7 +67,7 @@
 
     // System tray
     "tray": {
-        // "icon-size": 21,
+        "icon-size": 23,
         "spacing": 10
     },
 

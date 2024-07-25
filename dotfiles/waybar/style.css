@@ -10,10 +10,10 @@
  * ----------------------------------------------------- 
 */
 
-@define-color backgroundlight rgba(0,0,0,0.5);
-@define-color backgrounddark rgba(0,0,0,0.5);
+@define-color backgroundlight #444444;
+@define-color backgrounddark #444444;
 @define-color workspacesbackground1 #FFFFFF;
-@define-color workspacesbackground2 rgba(0,0,0,0.5);;
+@define-color workspacesbackground2 #CCCCCC;
 @define-color bordercolor #FFFFFF;
 @define-color textcolor1 #FFFFFF;
 @define-color textcolor2 #FFFFFF;
@@ -79,14 +79,14 @@ window#waybar {
 
 tooltip {
     border-radius: 10px;
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     opacity:0.8;
     padding:20px;
     margin:0px;
 }
 
 tooltip label {
-    color: @textcolor2;
+    color: rgba(0, 0, 0, 0.5);
 }
 
 /* -----------------------------------------------------
@@ -201,12 +201,12 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
  #disk,#memory,#cpu,#language {
-    background-color: @backgrounddark;
+    background-color: rgba(0, 0, 0, 0.5);
     margin:0px;
     padding:0px;
     font-size:16px;
-    color:@iconcolor;
     border-radius: 15px;
+    color:@iconcolor;
 }
 
 #language {
@@ -218,7 +218,7 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #clock {
-    background-color: @backgrounddark;
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 16px;
     color: @textcolor1;
     border-radius: 15px;
@@ -230,7 +230,7 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #pulseaudio {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 16px;
     color: @textcolor2;
     border-radius: 15px;
@@ -238,7 +238,7 @@ window#waybar.empty #window {
 }
 
 #pulseaudio.muted {
-    background-color: @backgrounddark;
+    background-color: rgba(0, 0, 0, 0.5);
     color: @textcolor1;
 }
 
@@ -247,7 +247,7 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #network {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 16px;
     color: @textcolor2;
     border-radius: 15px;
@@ -255,12 +255,12 @@ window#waybar.empty #window {
 }
 
 #network.ethernet {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     color: @textcolor2;
 }
 
 #network.wifi {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     color: @textcolor2;
 }
 
@@ -269,7 +269,7 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
  #bluetooth, #bluetooth.on, #bluetooth.connected {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 16px;
     color: @textcolor2;
     border-radius: 15px;
@@ -287,7 +287,7 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #battery {
-    background-color: @backgroundlight;
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 16px;
     color: @textcolor2;
     border-radius: 15px;
