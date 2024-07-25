@@ -1,30 +1,13 @@
-/*
- * __        __          _                  ____  _         _       
- * \ \      / /_ _ _   _| |__   __ _ _ __  / ___|| |_ _   _| | ___  
- *  \ \ /\ / / _` | | | | '_ \ / _` | '__| \___ \| __| | | | |/ _ \ 
- *   \ V  V / (_| | |_| | |_) | (_| | |     ___) | |_| |_| | |  __/ 
- *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___| 
- *                 |___/                              |___/         
- *  
- * by Stephan Raabe (2024) 
- * ----------------------------------------------------- 
-*/
-
-@define-color backgroundlight #444444;
-@define-color backgrounddark #444444;
-@define-color workspacesbackground1 #FFFFFF;
-@define-color workspacesbackground2 #CCCCCC;
-@define-color bordercolor #FFFFFF;
-@define-color textcolor1 #FFFFFF;
-@define-color textcolor2 #FFFFFF;
-@define-color textcolor3 #FFFFFF;
-@define-color iconcolor #FFFFFF;
 
 /* -----------------------------------------------------
  * General 
  * ----------------------------------------------------- */
 
 * {
+    --background-modules: rgba(0, 0, 0, 0.2);
+    --text-color: #FFFFFF;
+    --workspace-hover-selected: rgba(255, 255, 255, 0.3);
+
     font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
@@ -47,7 +30,7 @@ window#waybar {
     font-weight: bold;
     font-style: normal;
     font-size: 16px;
-    color: @textcolor1;
+    color: var(--text-color)
 }
 
 #workspaces button {
@@ -55,13 +38,13 @@ window#waybar {
     margin: 4px 3px;
     border-radius: 15px;
     border: 0px;
-    color: @textcolor3;
+    color: var(--text-color);
     transition: all 0.3s ease-in-out;
 }
 
 #workspaces button.active {
     color: @textcolor1;
-    background: @workspacesbackground2;
+    background: var(--workspace-hover-selected);
     border-radius: 15px;
     min-width: 40px;
     transition: all 0.3s ease-in-out;
@@ -69,7 +52,7 @@ window#waybar {
 
 #workspaces button:hover {
     color: @textcolor1;
-    background: @workspacesbackground2;
+    background: var(--workspace-hover-selected);
     border-radius: 15px;
 }
 
@@ -79,14 +62,14 @@ window#waybar {
 
 tooltip {
     border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--text-color);
     opacity:0.8;
     padding:20px;
     margin:0px;
 }
 
 tooltip label {
-    color: rgba(0, 0, 0, 0.5);
+    color: var(--background-modules);
 }
 
 /* -----------------------------------------------------
@@ -155,7 +138,7 @@ window#waybar.empty #window {
     font-weight: bold;
     color: @iconcolor;
     padding: 4px 10px 2px 10px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #custom-quicklink1,
@@ -201,8 +184,8 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
  #disk,#memory,#cpu,#language {
-    background-color: rgba(0, 0, 0, 0.5);
-    margin:0px;
+    background-color: var(--background-modules);
+    margin:10px 7px 10px 0px;
     padding:0px;
     font-size:16px;
     border-radius: 15px;
@@ -218,9 +201,9 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #clock {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.9);
     font-size: 16px;
-    color: @textcolor1;
+    color: var(--text-color);
     border-radius: 15px;
     margin: 10px 7px 10px 0px;
 }
@@ -230,16 +213,16 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #pulseaudio {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--background-modules);
     font-size: 16px;
-    color: @textcolor2;
+    color: var(--text-color);
     border-radius: 15px;
     margin: 10px 10px 10px 0px;
 }
 
 #pulseaudio.muted {
-    background-color: rgba(0, 0, 0, 0.5);
-    color: @textcolor1;
+    background-color: var(--background-modules);
+    color: var(--text-color);
 }
 
 /* -----------------------------------------------------
@@ -247,21 +230,21 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #network {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--background-modules);
     font-size: 16px;
-    color: @textcolor2;
+    color: var(--text-color);
     border-radius: 15px;
     margin: 10px 10px 10px 0px;
 }
 
 #network.ethernet {
-    background-color: rgba(0, 0, 0, 0.5);
-    color: @textcolor2;
+    background-color: var(--background-modules);
+    color: var(--text-color);
 }
 
 #network.wifi {
-    background-color: rgba(0, 0, 0, 0.5);
-    color: @textcolor2;
+    background-color: var(--background-modules);
+    color: var(--text-color);
 }
 
 /* -----------------------------------------------------
@@ -269,9 +252,9 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
  #bluetooth, #bluetooth.on, #bluetooth.connected {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--background-modules);
     font-size: 16px;
-    color: @textcolor2;
+    color: var(--text-color);
     border-radius: 15px;
     margin: 10px 15px 10px 0px;
 }
@@ -287,16 +270,16 @@ window#waybar.empty #window {
  * ----------------------------------------------------- */
 
 #battery {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--background-modules);
     font-size: 16px;
-    color: @textcolor2;
+    color: var(--text-color);
     border-radius: 15px;
     margin: 10px 15px 10px 0px;
 }
 
 #battery.charging, #battery.plugged {
-    color: @textcolor2;
-    background-color: @backgroundlight;
+    color: var(--text-color);
+    background-color: var(--background-modules);
 }
 
 @keyframes blink {
