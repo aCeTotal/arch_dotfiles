@@ -6,7 +6,7 @@
  * General 
  * ----------------------------------------------------- */
 
-{
+* {
     font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
     border: none;
     border-radius: 0px;
@@ -80,7 +80,7 @@ tooltip label {
     margin: 10px 15px 10px 0px;
     padding: 2px 10px 0px 10px;
     border-radius: 12px;
-    color:@textcolor2;
+    color:@text-color;
     font-size:16px;
     font-weight:normal;
 }
@@ -133,11 +133,10 @@ window#waybar.empty #window {
 #custom-appmenu,
 #clock {
     margin-right: 20px;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     color: @text-color;
     padding: 4px 10px 2px 10px;
-    font-size: 20px;
 }
 
 #custom-quicklink1,
