@@ -23,9 +23,9 @@
         "mpd", 
         "pulseaudio", 
         "network", 
-        "cpu", 
+        "cpu",
+        "disk",
         "memory", 
-        "keyboard-state", 
         "battery", 
         "tray",
     ]

@@ -200,7 +200,7 @@ window#waybar.empty #window {
 
 #clock {
     background-color: @background-modules;
-    font-size: 16px;
+    font-size: 21px;
     color: @text-color;
     border-radius: 15px;
     margin: 10px 7px 10px 0px;

@@ -86,20 +86,22 @@
 
     // CPU
     "cpu": {
-        "format": "/ C {usage}% ",
+        "interval": 5,
+        "format": "󰻠 {usage}% ",
         "on-click": "alacritty -e htop"
     },
 
     // Memory
     "memory": {
-        "format": "/ M {}% ",
+        "interval": 5,
+        "format": " {}% ",
         "on-click": "alacritty -e htop"
     },
 
     // Harddisc space used
     "disk": {
         "interval": 30,
-        "format": "D {percentage_used}% ",
+        "format": " {percentage_used}% ",
         "path": "/",
         "on-click": "alacritty -e htop"
     }, 
