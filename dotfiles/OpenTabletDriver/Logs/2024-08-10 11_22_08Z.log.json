@@ -1,0 +1,1137 @@
+[
+{
+  "Time": "2024-08-10T13:22:08.062833+02:00",
+  "Group": "RootHub",
+  "Message": "Initialized internal child hubs: HidSharpDeviceRootHub",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.3091493+02:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.3106483+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Artisul A1201' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.3912287+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Artisul D16 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.3956754+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon 1060 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.3999274+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon GM116HD' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4043552+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon GM156HD' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4085795+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M106K Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4127703+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M10K Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4171115+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M1220' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4214537+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M1230' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4258629+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M6' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4304482+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD1161' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4349448+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD156 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4396819+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD1561' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4446181+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S56K' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4446856+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S620' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4536842+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S630' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.469329+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S830' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4751179+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion GC610' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4808536+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H1060P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4867509+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H1161' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.4925508+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H320M' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5134706+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H420X' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5193695+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H430P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.525272+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610 Pro V2' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5310362+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5367406+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610X' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5425365+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H640P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5537568+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H642' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5595858+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H950P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5653392+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HC16' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5711372+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS610' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5886131+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS611' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.5943988+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS64' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6001982+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS95' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6058865+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 12' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6117508+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 13' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.617869+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 16 (2021)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6236791+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 16' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6295387+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 22 Plus' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6352747+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 22' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6411436+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 24 Plus' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.690027+02:00",
+  "Group": "Detect",
+  "Message": "Found 'Huion Kamvas 24 Plus' digitizer: 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.6901548+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Artisul A1201' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7450345+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Artisul D16 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7450843+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon 1060 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7450962+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon GM116HD' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451041+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon GM156HD' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451109+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M106K Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451178+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M10K Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451247+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M1220' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451316+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M1230' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451392+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon M6' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745147+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD1161' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451537+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD156 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451621+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon PD1561' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745171+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S56K' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451796+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S620' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451897+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S630' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7451983+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Gaomon S830' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452071+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion GC610' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452165+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H1060P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452258+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H1161' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452346+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H320M' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452442+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H420X' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452581+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H430P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452667+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610 Pro V2' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452755+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610 Pro' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452832+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H610X' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7452905+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H640P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745298+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H642' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453055+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion H950P' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453131+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HC16' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453213+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS610' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745332+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS611' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745342+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS64' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453511+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion HS95' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453586+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 12' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453706+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 13' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453777+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 16 (2021)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745385+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 16' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7453925+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 22 Plus' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454265+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 22' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454367+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas 24 Plus' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454464+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 12' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454568+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 13 (2.5k)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454694+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 13' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745478+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 16 (2.5k)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454868+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 16 (4k)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7454958+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 16 Plus (4k)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455028+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 16' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455126+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Kamvas Pro 24 (4K)' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455222+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion New 1060 Plus' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455304+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Q11K' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455404+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion Q620M' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455495+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion RDS-160' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.745559+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion RTM-500' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7455685+02:00",
+  "Group": "Detect",
+  "Message": "Attempting to match config 'Huion RTP-700' to device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.1/0003:256C:006D.0004/hidraw/hidraw3)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.7492633+02:00",
+  "Group": "Detect",
+  "Message": "Found tablet 'Huion Kamvas 24 Plus'",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8142796+02:00",
+  "Group": "Device",
+  "Message": "Initializing device 'Huion Tablet_GS2402 (/sys/devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2.4/1-2.4:1.0/0003:256C:006D.0003/hidraw/hidraw2)'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8145814+02:00",
+  "Group": "Device",
+  "Message": "Using report parser type 'OpenTabletDriver.Configurations.Parsers.Huion.GianoReportParser'",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8215567+02:00",
+  "Group": "Device",
+  "Message": "Initialized string index 200",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8582135+02:00",
+  "Group": "Evdev",
+  "Message": "Successfully initialized virtual pressure sensitive tablet. (code NONE)",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8666323+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "Input: [526.85x296.35@<263.425, 148.175>:0°]",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8710127+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "Output: [6000x1440@<3000, 720>]",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8719659+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "LockAspectRatio: False",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.872042+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "AreaClipping: True",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8721041+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "AreaLimiting: True",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8721692+02:00",
+  "Group": "LinuxArtistMode",
+  "Message": "LockToBounds: True",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8764596+02:00",
+  "Group": "Huion Kamvas 24 Plus",
+  "Message": "Output mode: Artist Mode",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8841178+02:00",
+  "Group": "MouseBinding",
+  "Message": "Button: Left",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:08.8872229+02:00",
+  "Group": "Settings",
+  "Message": "Driver is enabled.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:13.1689776+02:00",
+  "Group": "IPC",
+  "Message": "Connected to a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-10T13:22:47.5323149+02:00",
+  "Group": "IPC",
+  "Message": "Disconnected from a client.",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T00:46:14.2726419+02:00",
+  "Group": "Device",
+  "Message": "Device disconnected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T00:46:14.3608097+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 0, Remove: 2",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T00:46:14.4656568+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T19:22:42.9010483+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 0, Remove: 2",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T19:22:43.0014315+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T20:15:55.4427595+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 2, Remove: 0",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T20:15:55.5424845+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T20:15:55.5432065+02:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T20:15:55.5434483+02:00",
+  "Group": "Detect",
+  "Message": "No tablets were detected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T21:18:50.2750585+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 0, Remove: 2",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T21:18:50.37621+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T22:07:27.2061437+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 2, Remove: 0",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T22:07:27.3061747+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T22:07:27.3063394+02:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-11T22:07:27.3064014+02:00",
+  "Group": "Detect",
+  "Message": "No tablets were detected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-12T00:43:55.8409897+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 0, Remove: 2",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-12T00:43:55.9414604+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-15T09:38:39.9049119+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 0, Remove: 2",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-15T09:38:40.0059886+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:09.2510323+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 2, Remove: 0",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:09.3514451+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:09.3516058+02:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:09.3517107+02:00",
+  "Group": "Detect",
+  "Message": "No tablets were detected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:19.891311+02:00",
+  "Group": "HidSharpDeviceRootHub",
+  "Message": "Changes: 2, Add: 2, Remove: 0",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:19.9911956+02:00",
+  "Group": "RootHub",
+  "Message": "Invoking DevicesChanged",
+  "StackTrace": null,
+  "Level": 0,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:19.991286+02:00",
+  "Group": "Detect",
+  "Message": "Searching for tablets...",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},
+{
+  "Time": "2024-08-16T16:00:19.9913204+02:00",
+  "Group": "Detect",
+  "Message": "No tablets were detected.",
+  "StackTrace": null,
+  "Level": 1,
+  "Notification": false
+},

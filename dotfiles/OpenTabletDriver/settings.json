@@ -1,0 +1,74 @@
+{
+  "Revision": "0.7.0.0",
+  "Profiles": [
+    {
+      "Tablet": "Huion Kamvas 24 Plus",
+      "OutputMode": {
+        "Path": "OpenTabletDriver.Desktop.Output.LinuxArtistMode",
+        "Settings": [
+          {
+            "Property": "Input",
+            "Value": {
+              "Rotation": 0.0,
+              "Width": 526.85,
+              "Height": 296.35,
+              "XPosition": 263.425,
+              "YPosition": 148.175
+            }
+          },
+          {
+            "Property": "Output",
+            "Value": {
+              "Width": 6000.0,
+              "Height": 1440.0,
+              "XPosition": 3000.0,
+              "YPosition": 720.0
+            }
+          },
+          {
+            "Property": "LockAspectRatio",
+            "Value": false
+          },
+          {
+            "Property": "AreaClipping",
+            "Value": true
+          },
+          {
+            "Property": "AreaLimiting",
+            "Value": true
+          },
+          {
+            "Property": "LockToBounds",
+            "Value": true
+          }
+        ],
+        "Enable": true
+      },
+      "Filters": [],
+      "Bindings": {
+        "TipActivationThreshold": 0.0,
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Left"
+            }
+          ],
+          "Enable": true
+        },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
+        "PenButtons": [
+          null,
+          null
+        ],
+        "AuxButtons": [],
+        "MouseButtons": [],
+        "MouseScrollUp": null,
+        "MouseScrollDown": null
+      }
+    }
+  ],
+  "Tools": []
+}

@@ -1,0 +1,15 @@
+2024/08/11-00:51:37.090 fad Reusing MANIFEST /home/total/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/11-00:51:37.090 fad Recovering log #4
+2024/08/11-00:51:37.092 fad Reusing old log /home/total/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2024/08/11-00:51:52.375 fae Level-0 table #8: started
+2024/08/11-00:51:52.402 fae Level-0 table #8: 2935007 bytes OK
+2024/08/11-00:51:52.413 fae Delete type=0 #4
+2024/08/11-00:54:15.833 faf Compacting 1@1 + 1@2 files
+2024/08/11-00:54:15.848 faf Generated table #9@1: 272 keys, 928449 bytes
+2024/08/11-00:54:15.848 faf Compacted 1@1 + 1@2 files => 928449 bytes
+2024/08/11-00:54:15.855 faf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-00:54:15.856 faf Delete type=2 #5
+2024/08/11-00:54:15.856 faf Delete type=2 #8
+2024/08/11-00:55:19.361 fae Level-0 table #11: started
+2024/08/11-00:55:19.386 fae Level-0 table #11: 2753972 bytes OK
+2024/08/11-00:55:19.401 fae Delete type=0 #7

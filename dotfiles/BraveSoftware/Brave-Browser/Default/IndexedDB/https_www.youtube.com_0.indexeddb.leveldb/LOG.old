@@ -1,0 +1,75 @@
+2024/08/11-20:32:41.030 fad Reusing MANIFEST /home/total/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/11-20:32:41.030 fad Recovering log #19
+2024/08/11-20:32:41.042 fad Reusing old log /home/total/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2024/08/11-20:32:52.870 fad Level-0 table #24: started
+2024/08/11-20:32:52.884 fad Level-0 table #24: 1048613 bytes OK
+2024/08/11-20:32:52.901 fad Delete type=0 #19
+2024/08/11-20:41:04.882 fae Compacting 1@1 + 1@2 files
+2024/08/11-20:41:04.891 fae Generated table #25@1: 335 keys, 46123 bytes
+2024/08/11-20:41:04.892 fae Compacted 1@1 + 1@2 files => 46123 bytes
+2024/08/11-20:41:04.903 fae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-20:41:04.904 fae Delete type=2 #21
+2024/08/11-20:41:04.904 fae Delete type=2 #24
+2024/08/11-21:06:17.272 fad Level-0 table #27: started
+2024/08/11-21:06:17.288 fad Level-0 table #27: 1211691 bytes OK
+2024/08/11-21:06:17.296 fad Delete type=0 #23
+2024/08/11-21:10:09.249 fae Compacting 1@1 + 1@2 files
+2024/08/11-21:10:09.262 fae Generated table #28@1: 341 keys, 47112 bytes
+2024/08/11-21:10:09.262 fae Compacted 1@1 + 1@2 files => 47112 bytes
+2024/08/11-21:10:09.269 fae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-21:10:09.270 fae Delete type=2 #25
+2024/08/11-21:10:09.270 fae Delete type=2 #27
+2024/08/11-21:12:59.220 fae Level-0 table #30: started
+2024/08/11-21:12:59.235 fae Level-0 table #30: 909669 bytes OK
+2024/08/11-21:12:59.244 fae Delete type=0 #26
+2024/08/11-21:14:14.105 fae Compacting 1@1 + 1@2 files
+2024/08/11-21:14:14.115 fae Generated table #31@1: 359 keys, 34397 bytes
+2024/08/11-21:14:14.115 fae Compacted 1@1 + 1@2 files => 34397 bytes
+2024/08/11-21:14:14.122 fae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-21:14:14.123 fae Delete type=2 #28
+2024/08/11-21:14:14.123 fae Delete type=2 #30
+2024/08/11-22:10:23.170 fae Level-0 table #33: started
+2024/08/11-22:10:23.187 fae Level-0 table #33: 1031660 bytes OK
+2024/08/11-22:10:23.195 fae Delete type=0 #29
+2024/08/11-22:11:01.451 fae Compacting 1@1 + 1@2 files
+2024/08/11-22:11:01.462 fae Generated table #34@1: 391 keys, 39600 bytes
+2024/08/11-22:11:01.462 fae Compacted 1@1 + 1@2 files => 39600 bytes
+2024/08/11-22:11:01.470 fae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-22:11:01.470 fae Delete type=2 #31
+2024/08/11-22:11:01.470 fae Delete type=2 #33
+2024/08/11-22:21:24.940 faf Level-0 table #36: started
+2024/08/11-22:21:24.953 faf Level-0 table #36: 921405 bytes OK
+2024/08/11-22:21:24.961 faf Delete type=0 #32
+2024/08/11-22:26:40.762 fae Compacting 1@1 + 1@2 files
+2024/08/11-22:26:40.780 fae Generated table #37@1: 427 keys, 42756 bytes
+2024/08/11-22:26:40.780 fae Compacted 1@1 + 1@2 files => 42756 bytes
+2024/08/11-22:26:40.790 fae compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-22:26:40.791 fae Delete type=2 #34
+2024/08/11-22:26:40.791 fae Delete type=2 #36
+2024/08/11-22:54:39.132 fae Level-0 table #39: started
+2024/08/11-22:54:39.157 fae Level-0 table #39: 956355 bytes OK
+2024/08/11-22:54:39.167 fae Delete type=0 #35
+2024/08/11-22:55:17.695 fba Compacting 1@1 + 1@2 files
+2024/08/11-22:55:17.695 fba Level-0 table #42: started
+2024/08/11-22:55:17.700 fba Level-0 table #42: 27633 bytes OK
+2024/08/11-22:55:17.707 fba Delete type=0 #38
+2024/08/11-22:55:17.715 fba Generated table #40@1: 440 keys, 30304 bytes
+2024/08/11-22:55:17.715 fba Compacted 1@1 + 1@2 files => 30304 bytes
+2024/08/11-22:55:17.722 fba compacted to: files[ 1 0 1 0 0 0 0 ]
+2024/08/11-22:55:17.722 fba Delete type=2 #37
+2024/08/11-22:55:17.722 fba Delete type=2 #39
+2024/08/11-22:55:17.722 fba Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03\x00 M5\xad\x89yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 30581 : 0
+2024/08/11-22:55:17.722 fba Compacting 1@0 + 0@1 files
+2024/08/11-22:55:17.727 fba Generated table #43@0: 109 keys, 16604 bytes
+2024/08/11-22:55:17.727 fba Compacted 1@0 + 0@1 files => 16604 bytes
+2024/08/11-22:55:17.734 fba compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/11-22:55:17.734 fba Delete type=2 #42
+2024/08/11-22:55:17.734 fad Manual compaction at level-0 from '\x00\x08\x01\x1f\x03\x00 M5\xad\x89yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 30581 : 0 .. (end); will stop at (end)
+2024/08/11-22:55:17.734 fad Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03\x00 M5\xad\x89yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 30581 : 0
+2024/08/11-22:55:17.734 fad Compacting 1@1 + 1@2 files
+2024/08/11-22:55:17.740 fad Generated table #44@1: 372 keys, 41365 bytes
+2024/08/11-22:55:17.740 fad Compacted 1@1 + 1@2 files => 41365 bytes
+2024/08/11-22:55:17.747 fad compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-22:55:17.747 fad Delete type=2 #40
+2024/08/11-22:55:17.747 fad Delete type=2 #43
+2024/08/11-22:55:17.747 fad Manual compaction at level-1 from '\x00\x08\x01\x1f\x03\x00 M5\xad\x89yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 30581 : 0 .. (end); will stop at (end)
