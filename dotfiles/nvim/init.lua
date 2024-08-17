@@ -1,1 +1,2 @@
-require("acetotal")
+﻿require("acetotal.core")
+require("acetotal.lazy")
